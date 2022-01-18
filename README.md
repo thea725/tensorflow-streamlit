@@ -17,6 +17,8 @@ Proses pembuatan apps ini terbagi atas tiga:</br>
 </br><strong>1. Membersihkan dataset</strong></br>
 Dataset yang didapatkan sebelumnya dikelompokkan terlebih dahulu dan dibersihkan dari data yang rusak.</br>
 </br><strong>2. Melatih model</strong></br>
-Model dilatih dengan dukungan teachablemachine, hal ini sebenarnya kurang disarankan karena tingkat akurasi yang cenderung buruk dan waktu pemrosesan yang lama, namun dengan tingkat pembuatan yang sangat cepat, karena mementingkan fungsi waktu maka model dibuat dengan teachablemachine</br>
+Model dilatih dengan dukungan teachablemachine, hal ini sebenarnya kurang disarankan karena tingkat akurasi yang cenderung buruk dan waktu pemrosesan yang lama, namun dengan tingkat pembuatan yang sangat cepat, karena mementingkan fungsi waktu maka model dibuat dengan teachablemachine.</br>
 </br><strong>3. Integrasi dengan UI</strong></br>
-Setelah model dibentuk maka model diimplementasikan ke dalam bentuk web app agar lebih mudah digunakan.
+Setelah model dibentuk maka model diimplementasikan ke dalam bentuk web app agar lebih mudah digunakan.</br>
+</br><strong>4. Deployment</strong></br>
+Setelah semua selesai, dilakukan pembersihan kode dan deployment ke platform herokuapp.
