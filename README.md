@@ -13,7 +13,7 @@ streamlit run app.py
 ```
 
 ### Proses
-Proses pembuatan apps ini terbagi atas tiga:</br>
+Proses pembuatan apps ini terbagi atas empat proses:</br>
 </br><strong>1. Membersihkan dataset</strong></br>
 Dataset yang didapatkan sebelumnya dikelompokkan terlebih dahulu dan dibersihkan dari data yang rusak.</br>
 </br><strong>2. Melatih model</strong></br>
