@@ -21,4 +21,4 @@ Model dilatih dengan dukungan teachablemachine, hal ini sebenarnya kurang disara
 </br><strong>3. Integrasi dengan UI</strong></br>
 Setelah model dibentuk maka model diimplementasikan ke dalam bentuk web app agar lebih mudah digunakan.</br>
 </br><strong>4. Deployment</strong></br>
-Setelah semua selesai, dilakukan pembersihan kode dan deployment ke platform herokuapp.
+Setelah semua selesai, dilakukan pembersihan kode dan deployment dalam Streamlit.
